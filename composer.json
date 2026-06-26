@@ -1,0 +1,18 @@
+{
+    "name": "app/file-splitter",
+    "description": "Excel / CSV File Splitter in Core PHP & PostgreSQL",
+    "type": "project",
+    "require": {
+        "php": ">=8.2",
+        "openspout/openspout": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}

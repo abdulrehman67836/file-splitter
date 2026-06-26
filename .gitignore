@@ -1,0 +1,6 @@
+.env
+/vendor/
+/storage/uploads/*
+/storage/outputs/*
+/storage/archives/*
+composer.lock
